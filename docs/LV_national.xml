@@ -1,0 +1,69 @@
+<WHOLE Date="29/03/2018">
+	<ENTITY Id="1" Type="P" reg_date="2017-07-31" pdf_link="https://likumi.lv/ta/id/292553-par-finansu-ierobezojumu-noteiksanu-attieciba-uz-subjektiem-kas-saistiti-ar-korejas-tautas-demokratiskas-republikas-istenoto" programme="ZIEMEĻKOREJA" >
+		<NAME Id="1" Entity_id="1" reg_date="2017-07-31" pdf_link="https://likumi.lv/ta/id/292553-par-finansu-ierobezojumu-noteiksanu-attieciba-uz-subjektiem-kas-saistiti-ar-korejas-tautas-demokratiskas-republikas-istenoto" programme="ZIEMEĻKOREJA" >
+			<LASTNAME>Tai</LASTNAME>
+			<FIRSTNAME>TSAI</FIRSTNAME>
+			<MIDDLENAME>Hsein</MIDDLENAME>
+			<WHOLENAME>TSAI Hsein Tai</WHOLENAME>
+			<GENDER>VĪRIETIS</GENDER>
+			<TITLE/>
+			<FUNCTION/>
+			<LANGUAGE/>
+		</NAME>
+		<NAME Id="2" Entity_id="1" reg_date="2017-07-31" pdf_link="https://likumi.lv/ta/id/292553-par-finansu-ierobezojumu-noteiksanu-attieciba-uz-subjektiem-kas-saistiti-ar-korejas-tautas-demokratiskas-republikas-istenoto" programme="ZIEMEĻKOREJA">
+			<LASTNAME>H.T.</LASTNAME>
+			<FIRSTNAME>TSAI</FIRSTNAME>
+			<MIDDLENAME>Alex</MIDDLENAME>
+			<WHOLENAME>TSAI Alex H.T.</WHOLENAME>
+			<GENDER>VĪRIETIS</GENDER>
+			<TITLE/>
+			<FUNCTION/>
+			<LANGUAGE/>
+		</NAME>
+		<BIRTH Id="1" Entity_id="1" reg_date="2017-07-31" pdf_link="https://likumi.lv/ta/id/292553-par-finansu-ierobezojumu-noteiksanu-attieciba-uz-subjektiem-kas-saistiti-ar-korejas-tautas-demokratiskas-republikas-istenoto" programme="ZIEMEĻKOREJA">
+			<DATE>1945-08-08</DATE> 
+			<PLACE>Taivāna</PLACE>
+			<COUNTRY>Taivāna</COUNTRY>
+		</BIRTH>
+		<PASSPORT Id="1" Entity_id="1" reg_date="2017-07-31" pdf_link="https://likumi.lv/ta/id/292553-par-finansu-ierobezojumu-noteiksanu-attieciba-uz-subjektiem-kas-saistiti-ar-korejas-tautas-demokratiskas-republikas-istenoto" programme="ZIEMEĻKOREJA">
+			<NUMBER>131134049 (izdota Taivānā, Taivānas pilsonis)</NUMBER>
+			<COUNTRY/>
+		</PASSPORT>
+		<PIEZIMES>Kompāniju Trans Merits Co. Ltd un Global Interface Company Inc vadītājs, ar kuru starpniecību sniedzis finanšu un materiālu palīdzību Korea Mining Development Trading Corporation, lai sekmētu Korejas Tautas Demokrātiskās Republikas politiskā režīma stiprināšanu, kā arī tādu programmu attīstību, kuras saistītas ar masu iznīcināšanas ieročiem, tai skaitā ar kodolieročiem un ballistiskajām raķetēm</PIEZIMES>
+	</ENTITY>
+
+	<ENTITY Id="2" Type="P" reg_date="2018-03-29" programme="ZIEMEĻKOREJA" pdf_link="https://likumi.lv/ta/id/298111">
+		<NAME Id="3" Entity_id="2" reg_date="2018-03-29" programme="ZIEMEĻKOREJA">
+			<LASTNAME>Song-Hyok</LASTNAME>
+			<FIRSTNAME>Ri</FIRSTNAME>
+			<WHOLENAME>Ri Song-Hyok</WHOLENAME>
+			<GENDER>VĪRIETIS</GENDER>
+		</NAME>
+		<NAME Id="4" Entity_id="2" reg_date="2018-03-29" programme="ZIEMEĻKOREJA">
+			<LASTNAME>Cheng He</LASTNAME>
+			<FIRSTNAME>Li</FIRSTNAME>
+			<WHOLENAME>Li, Cheng He</WHOLENAME>
+			<GENDER>VĪRIETIS</GENDER>
+		</NAME>
+		<BIRTH Id="2" Entity_id="2" reg_date="2018-03-29" programme="ZIEMEĻKOREJA">
+			<DATE>1965-03-19</DATE> 
+			<PLACE>Kaesong</PLACE>
+			<COUNTRY>Korejas Tautas Demokrātiskā Republika</COUNTRY>
+		</BIRTH>
+		<PASSPORT Id="2" Entity_id="2" reg_date="2018-03-29" programme="ZIEMEĻKOREJA">
+			<NUMBER>Pase Nr. 645120234</NUMBER>
+			<COUNTRY>Korejas Tautas Demokrātiskajā Republika</COUNTRY>
+		</PASSPORT>
+		<PIEZIMES>Subjekts ar savām darbībām ir veicinājis Korejas Tautas Demokrātiskās Republikas īstenoto kodolprogrammu un atbalsta Korejas Tautas Demokrātiskās Republikas politisko režīmu, tādējādi apdraudot drošību ne tikai Āzijas reģionā, bet arī globāli. Subjekts ir tieši mantiski ieinteresēts Korejas Tautas Demokrātiskās Republikas īstenotajos pasākumos, ir izveidojis kompāniju starpniektīklu, lai neievērotu starptautiskajās sankcijās pret Korejas Tautas Demokrātisko Republiku noteiktās prasības</PIEZIMES>
+	</ENTITY>
+
+	<ENTITY Id="3" Type="E" reg_date="2018-03-29" programme="ZIEMEĻKOREJA"  pdf_link="https://likumi.lv/ta/id/298111">
+		<NAME Id="5" Entity_id="3" reg_date="2018-03-29" programme="ZIEMEĻKOREJA" >
+			<WHOLENAME>Ruskor International Company Ltd.</WHOLENAME>
+		</NAME>
+		<ADDRESS Id="1" Entity_id="3">Drake Chambers, Tortola, British Virgin Islands</ADDRESS>
+		<ADDRESS Id="2" Entity_id="3">Mosfilmovskaja 72, Maskava, Krievijas Federācija (Korejas Tautas Demokrātiskās Republikas vēstniecības adrese)</ADDRESS>
+		<PIEZIMES>Veic darbību Korejas Tautas Demokrātiskās Republikas valdības labā. Ri Song-Hyok (LI, Cheng He) ir kompānijas patiesais labuma guvējs</PIEZIMES>
+	</ENTITY>
+
+</WHOLE>
